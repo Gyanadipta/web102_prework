@@ -1,10 +1,10 @@
 # WEB102 Prework - *Sea Monster Crowdfunding*
 
-Submitted by: **Yevheniya Solomyana**
+Submitted by: **Gyanadipta Mohanty**
 
 **Sea Monster Crowdfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
 ## Required Features
 
@@ -23,10 +23,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='gifs/VideoWalkthrough1.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='gifs/VideoWalkthrough2.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img src='gifs/VideoWalkthrough3.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <img src='gifs/VideoWalkthrough4.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
@@ -44,7 +41,7 @@ No challenges! Everything went pretty smoothly. Sometimes I needed a refresher o
 
 ## License
 
-    Copyright [2023] [Yevheniya Solomyana]
+    Copyright [2023] [Gyanadipta Mohanty]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
